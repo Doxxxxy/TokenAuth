@@ -14,9 +14,6 @@ Ratting myself, and logging into my own account.
 ## Download
 Download from [Releases](https://github.com/Doxxxxy/TokenAuth/releases) and drag that into your mod folder.
 
-or
-
-Setup and build yourself using [1.8.9ForgeTemplate#Setup](https://github.com/DxxxxY/1.8.9ForgeTemplate#Setup)'s instructions.
 
 ## Features
 - Login into an account with a username:uuid:token combo.
@@ -33,4 +30,4 @@ Setup and build yourself using [1.8.9ForgeTemplate#Setup](https://github.com/Dxx
 This is for educational purposes only. I am not responsible for any damage caused by this tool.
 
 ## License
-GPLv3 © dxxxxy
+GPLv3 © doxxxxy
